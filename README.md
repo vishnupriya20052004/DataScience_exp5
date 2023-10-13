@@ -89,6 +89,7 @@ df2
 # OUTPUT
 For encoding.csv file
 Initial data:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/87f0e2ba-5cd8-456f-b5a7-ef6132de8605)
 
 Unique value:
@@ -97,14 +98,17 @@ Unique value:
 
 
 Ordinal Encoder:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/76c8b6dd-4dbb-4811-bffb-567a60b64eed)
 
 
 Label Encoder:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/d5a46487-cd39-437e-af46-225fd7bfdea0)
 
 
 Binary Encoder:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/39555802-8835-442e-ad23-41e9cefda8d2)
 
 
@@ -113,14 +117,17 @@ Binary Encoder:
 
 For Data.csv file
 Initial data:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/030181e9-0ec5-4100-ac42-3dbd0d90ec85)
 
 
 Unique data:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/504b014a-13a9-4572-b88b-8e1a7be39071)
 
 
 Ordinal Encoder:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/11b758b0-604d-42e4-8e5d-81b2081e69e6)
 
 
@@ -128,10 +135,12 @@ Ordinal Encoder:
 
 
 Label Encoder:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/cc8ff56e-5d88-4066-b854-0503d9e48214)
 
 
 Binary Encoder:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/5decba62-e96c-45b9-9088-ce0ff31f05b9)
 
 
@@ -140,14 +149,17 @@ Binary Encoder:
 
 For bmi.csv file
 Initial data:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/1b15dc02-5df5-4e55-b122-ec949823de36)
 
 
 Binary Encoders:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/023e2aa8-dbc9-41dc-8f8e-7620af781e0e)
 
 
 Dummies:
+
 ![image](https://github.com/vishnupriya20052004/DataScience_exp5/assets/133640291/71132541-3b18-48ae-a02e-6a45c6c03eaa)
 
 
